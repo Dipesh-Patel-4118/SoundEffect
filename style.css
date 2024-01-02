@@ -796,7 +796,7 @@ body {
         display: block;
         display: flex;
         flex-direction: row;
-        justify-content: space-around;
+        justify-content: space-between;
         margin-top: 50px;
     }
 
