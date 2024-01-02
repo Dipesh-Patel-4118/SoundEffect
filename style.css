@@ -429,7 +429,7 @@ body {
 .basic-premium-box {
     display: flex;
     flex-direction: row;
-    width: 53%;
+    width: 68%;
     justify-content: space-between;
 }
 
